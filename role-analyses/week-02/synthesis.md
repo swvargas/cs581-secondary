@@ -12,7 +12,7 @@ The analyst would not claim these actors targeted this RMS. My profile finds no 
 
 ## Insider Threat Investigator
 
-The insider threat investigator would begin with the Vitek Boden card without turning one grievance-driven case into a personality profile. The card documents a former contractor using system knowledge and radio equipment to send false data and commands. For RMS, that supports checking who retains maintenance knowledge, portable equipment, accounts, and access after role or contract changes—not assuming that a disgruntled insider or Maroochy-style radio path exists.
+The insider threat investigator would begin with the Maroochy Water Breach Insider card without turning one grievance-driven case into a personality profile. The card documents a former contractor using system knowledge and radio equipment to send false data and commands. For RMS, that supports checking who retains maintenance knowledge, portable equipment, accounts, and access after role or contract changes—not assuming that a disgruntled insider or Maroochy-style radio path exists.
 
 Anderson's **security-usability** concept changes what counts as a cause. Chapter 3 explains that difficult security and unsafe defaults invite failure; “careless users” are not a sufficient explanation. Relevant conditions include shared or default credentials, excessive privileges, awkward maintenance, weak offboarding, and pressure that rewards bypasses. They can enable misuse or error but do not prove intent.
 
