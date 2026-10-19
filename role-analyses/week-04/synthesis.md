@@ -152,3 +152,14 @@ structure and the primary Week 04 role requirement. ROE constraints and the curr
 Attack B Untestable disposition follow the October 15 scope review. The synthesis
 itself was drafted from local records; the separate October 15 collection records
 the primary work's read-only live checks. No new attack execution is claimed.
+
+## October 18 Review Status
+
+Codex reviewed this synthesis against the primary evidence and the supplied
+assignment. Its conclusions remain unchanged: A was Executable, C's later denial
+applies only to the tested gateway path, and B remains Untestable. The primary
+Week 04 README now indexes the deliverables and identifies the missing original
+architecture review, unresolved B execution/acceptance, and required author review.
+These are submission limits as well as handover limits. Neither role should sign
+off on them as verified controls or completed experiments. No new partner contact,
+physical inspection, live attack, or personal author approval is claimed here.
